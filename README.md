@@ -4,7 +4,7 @@ Password generator in Python with encrypted backups using base64
 ## How to use
 
 ```
-git clone https://github.com/RadioactivePotato/python-password-generator
+git clone https://github.com/krunchiekrunch/python-password-generator
 cd python-password-generator
 python main.py
 ```
